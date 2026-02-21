@@ -39,3 +39,9 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=parthajit3080&theme=dark" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthajit3080&layout=compact&cache_seconds=86400" />
+</p>
+
+
