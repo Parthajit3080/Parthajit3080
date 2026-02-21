@@ -3,16 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthajit3080&label=Profile%20views&color=0e75b6&style=flat" alt="parthajit3080" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthajit3080" alt="parthajit3080" /></a> </p>
-
+<img src="https://github-profile-trophy.vercel.app/?username=parthajit3080&row=1&column=6" />
 - 🔭 I’m currently working on **Transformers, GANs (WGAN/WGAN-GP), PyTorch, TensorFlow, and recommendation systems**
 
 - 🌱 I’m currently learning **Deep Learning, Generative Models, and building research-oriented AI projects.**
 
-- 📫 How to reach me **cmsparthajitdas@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<a href="mailto:cmsparthajitdas@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://linkedin.com/in/parthajit-das" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -24,6 +28,7 @@
 <a href="https://instagram.com/mr.parthajit" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
