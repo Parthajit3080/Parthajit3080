@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parthajit Das</h1>
-<h3 align="center">CSE Student | GATE 2025 Qualifier | Machine Learning, Deep Learning & AI Research Enthusiast</h3>
+<h3 align="center">CSE Student | AIR 2855 (98.76 percentile) GATE 2026 | 91.37 percentile in GATE 2025 | Machine Learning, Deep Learning & AI Research Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthajit3080&label=Profile%20views&color=0e75b6&style=flat" alt="parthajit3080" /> </p>
 
